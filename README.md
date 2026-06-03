@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <!---------------------------- My Skills Section ----------------------------->
 ## 💻 Tech Backpack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,tailwind,threejs,materialui,redux,figma,mongodb,mysql,git,github,postman,vscode,vercel" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,tailwind,redux,mongodb,mysql,git,github,postman,vscode,vercel" align="center">
+<!--<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,tailwind,threejs,materialui,redux,figma,mongodb,mysql,git,github,postman,vscode,vercel" align="center">-->
 <br>
-
 
 <!----------------------------- Open Source Projects --------------------------->
 ## 🔖 Some of my Repositories
