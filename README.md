@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/harshitWhoCde/RememberMee"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshitWhoCde&repo=RememberMee&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-repo-card"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/DevrajDC?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/DeveshGhadi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 <br>
 <br>
