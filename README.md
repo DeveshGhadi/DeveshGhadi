@@ -57,11 +57,24 @@ Here are some ideas to get you started:
   <a href="https://github.com/DeveshGhadi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 <br>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeveshGhadi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br>
 <br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
+<br>
+<br>
 
 ###
 
