@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--- 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community.--><!--- 👨‍💻 Explore my diverse projects at <!--paste portfolio link here-->
 <!-- 💬 Ask me about **Frontend Development, MERN Stack.**-->
 - 📫 Reach out to me at: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=deveshghadigaonkar@gmail.com">deveshghadigaonkar@gmail.com</a>
-- 📄 Dive into my experiences with my **Resume**: [here](https://drive.google.com/file/d/1ENpwT6sNurkffKaUes4QGZDhq7WC7Qck/view?usp=sharing)
+- 📄 Dive into my experiences with my **Resume**: [here](https://drive.google.com/file/d/167Px7nb3sOHg4qeYid1YHyZhZqmX5htH/view?usp=sharing)
 - ⚡ Fun fact: When I'm not coding, you'll often find me sketching<br>**Artworks**! Checkout: [here](https://www.instagram.com/jod_arts_2023/)
 
 <br>
