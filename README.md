@@ -108,6 +108,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+[![](https://komarev.com/ghpvc/?username=DeveshGhadi&color=blueviolet )](https://visitcount.itsvg.in)
+
 
 <!---------------------------------  Marquee Animation  ------------------------>
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
