@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-[![](https://komarev.com/ghpvc/?username=DeveshGhadi&color=blueviolet )](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=DeveshGhadi&color=blueviolet )
 
 
 <!---------------------------------  Marquee Animation  ------------------------>
